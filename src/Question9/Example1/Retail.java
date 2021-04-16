@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Question9;
+package Question9.Example1;
+
+import Question9.Example1.RetailShop;
 
 /**
  *

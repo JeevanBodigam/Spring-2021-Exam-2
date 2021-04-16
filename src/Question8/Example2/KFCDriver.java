@@ -3,23 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Question9;
+package Question8.Example2;
 
 /**
  *
  * @author Jeevan Bodigam
  */
-public class RetailDriver {
+public class KFCDriver {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-
-        Retail retail = new Retail(10000);
-
-        System.out.println(retail);
+        KFC kfc=new KFC();
+        System.out.println(kfc);
+        System.out.println(kfc.nuggetsRecipe());
+        System.out.println(kfc.burgerRecipe());
     }
-
+    
 }
