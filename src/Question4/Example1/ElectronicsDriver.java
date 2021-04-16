@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Question4;
+package Question4.Example1;
 
 /**
  *
